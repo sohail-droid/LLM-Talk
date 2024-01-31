@@ -1,5 +1,5 @@
 # LLMs in Five Formulas
-
+#smd sohail
 [Talk](https://www.youtube.com/watch?v=KCXDr-UOb9A&t=671s) | [Slides](https://github.com/srush/LLM-Talk/blob/main/Tutorial.pdf)
 
 ## Perplexity
